@@ -1,0 +1,1 @@
+alpine-base bash binutils make dialog dtc e2fsprogs-extra agetty openssh network-extras chrony
