@@ -1,4 +1,11 @@
 # luckfox-pico-alpine
+buildroot wasn't too convenient, lot of packages weren't working
+
+ubuntu used too much ram so i couln't reserve enough ram for camera
+
+so i decided to use alpine linux for my project
+
+
 how to create rootfs img
 
 this should create very minimal rootfs and will not be able to host ssh out of box
