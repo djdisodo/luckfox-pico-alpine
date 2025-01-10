@@ -16,7 +16,7 @@ prepare apk-tools, (native or static or whatever)
 
 i don't recommend doing on foreign arch tho
 
-huge thanks for @ptrcnull from alpine linux telegram
+huge thanks to @ptrcnull from alpine linux telegram
 ## creating image 
 ### create image file
 ```
