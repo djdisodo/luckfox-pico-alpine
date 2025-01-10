@@ -66,6 +66,11 @@ reboot
 ```
 this will setup basic services including sysfs etc
 
+### resize root
+```
+resize2fs /dev/root
+```
+
 ### setup-devd
 ```
 setup-devd
