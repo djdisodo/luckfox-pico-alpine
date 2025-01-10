@@ -15,6 +15,8 @@ so you have to do setup on serial tty
 prepare apk-tools, (native or static or whatever)
 
 i don't recommend doing on foreign arch tho
+
+huge thanks for @ptrcnull from alpine linux telegram
 ## creating image 
 ### create image file
 ```
